@@ -1,4 +1,4 @@
-# react-skeleton
+# React-skeleton
 * react skeleton
 
 # Project Install
@@ -9,7 +9,7 @@ $ npm install -g webpack webpack-dev-server
 $ npm install
 ```
 
-# 실행
+# Running
 > npm run dev-server (or webpack-dev-server)
 * 초기 포트는 4000 이다. (http://localhost:4000)
 
