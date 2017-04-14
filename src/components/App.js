@@ -11,7 +11,7 @@ class App extends React.Component {
         return (
           <div>
             <button onClick={() => { this.setState({name: 'steve.jung'}); }}>CLICK ME</button>
-            <h1>Hello!! React ^^;; ({this.state.name})</h1>
+            <h1>Hello!! React Contact ^^;; ({this.state.name})</h1>
           </div>
         );
     }
